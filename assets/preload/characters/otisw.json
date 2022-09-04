@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "otis idle"
+		},
+		{
+			"offsets": [
+				21,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "otis left"
+		},
+		{
+			"offsets": [
+				-32,
+				-59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "otis down"
+		},
+		{
+			"offsets": [
+				-3,
+				16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "otis up"
+		},
+		{
+			"offsets": [
+				-34,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "otis right"
+		}
+	],
+	"image": "characters/otisw",
+	"scale": 1,
+	"sing_duration": 6.1,
+	"healthicon": "otis",
+	"position": [
+		-90,
+		220
+	],
+	"camera_position": [
+		40,
+		10
+	],
+	"flip_x": false,
+	"no_antialiasing": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	]
+}

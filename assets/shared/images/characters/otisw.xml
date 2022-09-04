@@ -1,0 +1,54 @@
+<TextureAtlas imagePath="otisw.png">
+<!--  Created with Adobe Animate version 19.2.1.408  -->
+<!--  http://www.adobe.com/products/animate.html  -->
+<SubTexture name="otis down0000" x="90" y="90" width="464" height="485" frameX="-8" frameY="-9" frameWidth="472" frameHeight="494"/>
+<SubTexture name="otis down0001" x="90" y="90" width="464" height="485" frameX="-8" frameY="-9" frameWidth="472" frameHeight="494"/>
+<SubTexture name="otis down0002" x="607" y="90" width="471" height="494" frameX="0" frameY="0" frameWidth="472" frameHeight="494"/>
+<SubTexture name="otis down0003" x="607" y="90" width="471" height="494" frameX="0" frameY="0" frameWidth="472" frameHeight="494"/>
+<SubTexture name="otis down0004" x="1131" y="90" width="467" height="494" frameX="-4" frameY="0" frameWidth="472" frameHeight="494"/>
+<SubTexture name="otis down0005" x="1131" y="90" width="467" height="494" frameX="-4" frameY="0" frameWidth="472" frameHeight="494"/>
+<SubTexture name="otis down0006" x="1131" y="90" width="467" height="494" frameX="-4" frameY="0" frameWidth="472" frameHeight="494"/>
+<SubTexture name="otis down0007" x="1131" y="90" width="467" height="494" frameX="-4" frameY="0" frameWidth="472" frameHeight="494"/>
+<SubTexture name="otis down0008" x="1131" y="90" width="467" height="494" frameX="-4" frameY="0" frameWidth="472" frameHeight="494"/>
+<SubTexture name="otis idle0000" x="90" y="637" width="512" height="542" frameX="-5" frameY="-6" frameWidth="517" frameHeight="548"/>
+<SubTexture name="otis idle0001" x="90" y="637" width="512" height="542" frameX="-5" frameY="-6" frameWidth="517" frameHeight="548"/>
+<SubTexture name="otis idle0002" x="655" y="637" width="517" height="547" frameX="0" frameY="-1" frameWidth="517" frameHeight="548"/>
+<SubTexture name="otis idle0003" x="655" y="637" width="517" height="547" frameX="0" frameY="-1" frameWidth="517" frameHeight="548"/>
+<SubTexture name="otis idle0004" x="1225" y="637" width="508" height="548" frameX="-3" frameY="0" frameWidth="517" frameHeight="548"/>
+<SubTexture name="otis idle0005" x="1225" y="637" width="508" height="548" frameX="-3" frameY="0" frameWidth="517" frameHeight="548"/>
+<SubTexture name="otis idle0006" x="90" y="1238" width="507" height="548" frameX="-4" frameY="0" frameWidth="517" frameHeight="548"/>
+<SubTexture name="otis idle0007" x="90" y="1238" width="507" height="548" frameX="-4" frameY="0" frameWidth="517" frameHeight="548"/>
+<SubTexture name="otis idle0008" x="90" y="1238" width="507" height="548" frameX="-4" frameY="0" frameWidth="517" frameHeight="548"/>
+<SubTexture name="otis idle0009" x="90" y="1238" width="507" height="548" frameX="-4" frameY="0" frameWidth="517" frameHeight="548"/>
+<SubTexture name="otis idle0010" x="90" y="1238" width="507" height="548" frameX="-4" frameY="0" frameWidth="517" frameHeight="548"/>
+<SubTexture name="otis idle0011" x="90" y="1238" width="507" height="548" frameX="-4" frameY="0" frameWidth="517" frameHeight="548"/>
+<SubTexture name="otis idle0012" x="90" y="1238" width="507" height="548" frameX="-4" frameY="0" frameWidth="517" frameHeight="548"/>
+<SubTexture name="otis idle0013" x="90" y="1238" width="507" height="548" frameX="-4" frameY="0" frameWidth="517" frameHeight="548"/>
+<SubTexture name="otis left0000" x="650" y="1238" width="502" height="546" frameX="-3" frameY="-1" frameWidth="512" frameHeight="547"/>
+<SubTexture name="otis left0001" x="650" y="1238" width="502" height="546" frameX="-3" frameY="-1" frameWidth="512" frameHeight="547"/>
+<SubTexture name="otis left0002" x="1205" y="1238" width="512" height="547"/>
+<SubTexture name="otis left0003" x="1205" y="1238" width="512" height="547"/>
+<SubTexture name="otis left0004" x="90" y="1839" width="509" height="547" frameX="-3" frameY="0" frameWidth="512" frameHeight="547"/>
+<SubTexture name="otis left0005" x="90" y="1839" width="509" height="547" frameX="-3" frameY="0" frameWidth="512" frameHeight="547"/>
+<SubTexture name="otis left0006" x="90" y="1839" width="509" height="547" frameX="-3" frameY="0" frameWidth="512" frameHeight="547"/>
+<SubTexture name="otis left0007" x="90" y="1839" width="509" height="547" frameX="-3" frameY="0" frameWidth="512" frameHeight="547"/>
+<SubTexture name="otis left0008" x="90" y="1839" width="509" height="547" frameX="-3" frameY="0" frameWidth="512" frameHeight="547"/>
+<SubTexture name="otis right0000" x="652" y="1839" width="499" height="550"/>
+<SubTexture name="otis right0001" x="652" y="1839" width="499" height="550"/>
+<SubTexture name="otis right0002" x="1204" y="1839" width="478" height="548" frameX="-10" frameY="-2" frameWidth="499" frameHeight="550"/>
+<SubTexture name="otis right0003" x="1204" y="1839" width="478" height="548" frameX="-10" frameY="-2" frameWidth="499" frameHeight="550"/>
+<SubTexture name="otis right0004" x="90" y="2442" width="481" height="548" frameX="-7" frameY="-2" frameWidth="499" frameHeight="550"/>
+<SubTexture name="otis right0005" x="90" y="2442" width="481" height="548" frameX="-7" frameY="-2" frameWidth="499" frameHeight="550"/>
+<SubTexture name="otis right0006" x="90" y="2442" width="481" height="548" frameX="-7" frameY="-2" frameWidth="499" frameHeight="550"/>
+<SubTexture name="otis right0007" x="90" y="2442" width="481" height="548" frameX="-7" frameY="-2" frameWidth="499" frameHeight="550"/>
+<SubTexture name="otis right0008" x="90" y="2442" width="481" height="548" frameX="-7" frameY="-2" frameWidth="499" frameHeight="550"/>
+<SubTexture name="otis up0000" x="624" y="2442" width="490" height="564" frameX="0" frameY="0" frameWidth="494" frameHeight="564"/>
+<SubTexture name="otis up0001" x="624" y="2442" width="490" height="564" frameX="0" frameY="0" frameWidth="494" frameHeight="564"/>
+<SubTexture name="otis up0002" x="1167" y="2442" width="489" height="554" frameX="-5" frameY="-10" frameWidth="494" frameHeight="564"/>
+<SubTexture name="otis up0003" x="1167" y="2442" width="489" height="554" frameX="-5" frameY="-10" frameWidth="494" frameHeight="564"/>
+<SubTexture name="otis up0004" x="90" y="3059" width="493" height="554" frameX="-1" frameY="-10" frameWidth="494" frameHeight="564"/>
+<SubTexture name="otis up0005" x="90" y="3059" width="493" height="554" frameX="-1" frameY="-10" frameWidth="494" frameHeight="564"/>
+<SubTexture name="otis up0006" x="90" y="3059" width="493" height="554" frameX="-1" frameY="-10" frameWidth="494" frameHeight="564"/>
+<SubTexture name="otis up0007" x="90" y="3059" width="493" height="554" frameX="-1" frameY="-10" frameWidth="494" frameHeight="564"/>
+<SubTexture name="otis up0008" x="90" y="3059" width="493" height="554" frameX="-1" frameY="-10" frameWidth="494" frameHeight="564"/>
+</TextureAtlas>
