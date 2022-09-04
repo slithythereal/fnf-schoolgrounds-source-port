@@ -27,6 +27,7 @@ using StringTools;
 class FreeplayState extends MusicBeatState
 {
 	var songs:Array<SongMetadata> = [];
+	public static var psychEngineVersion:String = '0.6.2'; //This is also used for Discord RPC
 
 	var selector:FlxText;
 	private static var curSelected:Int = 0;

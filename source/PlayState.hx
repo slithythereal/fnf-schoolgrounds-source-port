@@ -6,7 +6,6 @@ import Discord.DiscordClient;
 #end
 import Section.SwagSection;
 import Song.SwagSong;
-import WiggleEffect.WiggleEffectType;
 import flixel.FlxBasic;
 import flixel.FlxCamera;
 import flixel.FlxG;
@@ -218,7 +217,6 @@ class PlayState extends MusicBeatState
 	var dialogueJson:DialogueFile = null;
 
 	var heyTimer:Float;
-	var wiggleShit:WiggleEffect = new WiggleEffect();
 
 	public var songScore:Int = 0;
 	public var songHits:Int = 0;
